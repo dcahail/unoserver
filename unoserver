@@ -6,8 +6,9 @@
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
 # Short-Description: unoserver server
+# Author: Darrell Cahail <darrell.cahail@csus.edu>
 # Description:       Start the unoserver server
-#  This script will start the unoserver server.
+#  This script will start the unoserver server. It must be placed into /etc/init.d if not using systemd.
 ### END INIT INFO
 
 DESC="unoserver server"
