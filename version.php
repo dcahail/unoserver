@@ -25,5 +25,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version   = 2023010500;         // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2021051100;         // Requires this Moodle version.
+$plugin->requires  = 2023042401;         // Requires this Moodle version.
 $plugin->component = 'fileconverter_unoserver'; // Full name of the plugin (used for diagnostics).
